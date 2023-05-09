@@ -5,7 +5,6 @@ const fs = require('fs');
 const Books = require('../models/books');
 
 exports.createBook = (req, res) => {
-  // const bookObject = req.body.books;
   delete req.body.userId;
   const book = new Books({
     ...req.body,
