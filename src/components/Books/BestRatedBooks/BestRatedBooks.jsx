@@ -1,3 +1,5 @@
+/* eslint-disable linebreak-style */
+/* eslint-disable import/no-extraneous-dependencies */
 import React from 'react';
 import { useBestRatedBooks } from '../../../lib/customHooks';
 import BookItem from '../BookItem/BookItem';

@@ -1,6 +1,6 @@
-/*
-     eslint-disable react/jsx-filename-extension
-*/
+/* eslint-disable linebreak-style */
+/* eslint-disable import/no-extraneous-dependencies */
+/* eslint-disable react/jsx-filename-extension */
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';

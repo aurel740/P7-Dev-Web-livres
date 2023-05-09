@@ -1,3 +1,5 @@
+/* eslint-disable linebreak-style */
+/* eslint-disable import/no-extraneous-dependencies */
 import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 

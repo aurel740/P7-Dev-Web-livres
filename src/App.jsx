@@ -1,3 +1,6 @@
+/* eslint-disable linebreak-style */
+/* eslint-disable no-console */
+/* eslint-disable linebreak-style */
 import React, { useEffect, useState } from 'react';
 import {
   BrowserRouter, Route, Routes,

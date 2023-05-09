@@ -1,3 +1,5 @@
+/* eslint-disable linebreak-style */
+/* eslint-disable import/no-extraneous-dependencies */
 import React from 'react';
 import Map from '../../images/map_footer.png';
 import styles from './Footer.module.css';

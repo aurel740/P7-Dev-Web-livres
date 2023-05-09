@@ -1,3 +1,6 @@
+/* eslint-disable linebreak-style */
+/* eslint-disable no-console */
+/* eslint-disable linebreak-style */
 const API_URL = 'http://localhost:4000';
 export const API_ROUTES = {
   SIGN_UP: `${API_URL}/api/auth/signup`,

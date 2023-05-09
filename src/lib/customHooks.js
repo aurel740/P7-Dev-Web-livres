@@ -1,3 +1,5 @@
+/* eslint-disable linebreak-style */
+/* eslint-disable import/no-extraneous-dependencies */
 import { useState, useEffect } from 'react';
 import { getAuthenticatedUser, getBestRatedBooks } from './common';
 

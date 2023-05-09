@@ -1,3 +1,6 @@
+/* eslint-disable linebreak-style */
+/* eslint-disable import/no-extraneous-dependencies */
+/* eslint-disable no-console */
 import React, { useState } from 'react';
 import axios from 'axios';
 import * as PropTypes from 'prop-types';

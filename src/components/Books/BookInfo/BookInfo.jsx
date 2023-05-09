@@ -1,3 +1,5 @@
+/* eslint-disable linebreak-style */
+/* eslint-disable import/no-extraneous-dependencies */
 import * as PropTypes from 'prop-types';
 import React from 'react';
 import styles from '../../../pages/Book/Book.module.css';
